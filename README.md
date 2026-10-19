@@ -1,4 +1,4 @@
-# Multi-User-FAMA-under-Heterogeneous-Co-Channel-Interference
+# Outage Analysis of Multi-User FAMA under Heterogeneous Interference over Block-Correlated Channels with Nakagami-m Textures
 Reproduction code for the outage-floor analysis of a fluid antenna terminal receiving
 heterogeneous co-channel interference over block-correlated Nakagami-m channels.
 > \*\*Paper.\*\* M. H. Aldemir, M. A. Karabulut, and A. F. M. Shahen Shah, "Multi-User FAMA
